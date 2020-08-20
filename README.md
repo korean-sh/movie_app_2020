@@ -1,3 +1,3 @@
-# Movie App 2020
+# Movie Web Site
 
-React JS Fundamentals Course (2019 Update!)
+<a href="https://korean-sh.github.io/movie_app_2020/#/"> > 결과 보러가기 </a>
